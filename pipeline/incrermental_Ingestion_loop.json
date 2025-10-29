@@ -327,8 +327,6 @@
 						"activity": "ForEachLooping",
 						"dependencyConditions": [
 							"Failed",
-							"Skipped",
-							"Completed",
 							"Succeeded"
 						]
 					}
