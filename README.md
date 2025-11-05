@@ -20,28 +20,6 @@ It covers **data ingestion, transformation, and modeling**, showcasing real-worl
 - **Jinja** – Used for parameterized and reusable PySpark scripts  
 - **Languages:** Python, SQL, JSON  
 
----
-
-## 📁 Folder Structure
-spotify-data-engineering-project/
-│
-├── adf/ # Azure Data Factory pipelines and configs
-│ ├── factory/
-│ ├── pipeline/
-│ ├── dataset/
-│ ├── linkedService/
-│ └── publish_config.json
-│
-├── databricks/ # Databricks notebooks and PySpark scripts
-│ ├── src/
-│ │ └── silver/
-│ │ └── silver_dimensions.py
-│ └── notebooks/
-|
-└── README.md
-
----
-
 ## 🔄 Data Pipeline Flow
 
 ### 1️⃣ Ingestion (Bronze)
